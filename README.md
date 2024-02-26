@@ -35,6 +35,12 @@ Here is the power bi visualization of the dimension table, fact table and source
 
 ![image](https://github.com/likhz/sachin-tendulkar-odi/assets/98212542/4edc8473-d02c-42c2-a1f8-a366b2e13bbb)
 
+- This visualization contains various observations where in,
+- 1st visualization is a bar graph of count of match by year and here we get to see that in the year 1996 sachin have played at most matches
+- 2nd visualization shows that the maximum runs scored by sachin are 200 With a avarage strike rate of 74.5 and total number of matches that are played between thw years 1989 and 2012 are 462.
+- 3rd visualization depicts 4’s and 6’s scored in the matches with respect to country.
+- 4th visualization show a pie chart of runs made with respect to country and it can seen that maximum runs are scored against srilanka with 17.74% comparitively.
+
 
 
 
