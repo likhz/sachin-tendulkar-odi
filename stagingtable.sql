@@ -1,0 +1,18 @@
+Create table Source_Data_Staging( MatchDate date,
+Opposition varchar(50), 
+Opp_ID nvarchar(20), 
+Ground varchar(50), 
+Grnd_ID nvarchar(20), 
+Runs tinyint,
+Mins tinyint, 
+BallsFaced tinyint,
+_4s tinyint,
+_6s tinyint,
+StrikeRate numeric(10,2), 
+BattingPosition tinyint, 
+Dismissal varchar(50), 
+Inns tinyint,
+B_ID nvarchar(20), 
+Match smallint, 
+Year smallint
+)
